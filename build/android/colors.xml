@@ -2,8 +2,17 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 27 Oct 2021 21:43:56 GMT
+  Generated on Wed, 27 Oct 2021 21:57:27 GMT
 -->
 <resources>
+  <color name="color_white">#ffffffff</color>
+  <color name="color_blue_primary">#ff475a79</color>
+  <color name="color_blue_dark">#ff1c2f45</color>
+  <color name="color_blue_hover">#ff26405d</color>
+  <color name="color_red_primary">#fff4616b</color>
+  <color name="color_red_dark">#ffdf5a63</color>
+  <color name="color_mint_primary">#ff8cdbc9</color>
+  <color name="color_grey_light">#ffefeded</color>
+  <color name="color_grey_dark">#ff979797</color>
   
 </resources>
