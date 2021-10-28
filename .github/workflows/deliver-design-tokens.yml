@@ -6,17 +6,16 @@ on:
       - 'output/**'
 
 jobs:
-  # Add a job for every additional consumer/application
-  deliver_to_react_application:
+  deliver_to_frontend_1:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Deliver Platform Deliverable To Application
+    - name: Deliver Platform Deliverable To Frontend 1
       uses: andstor/copycat-action@v3
       with:
         # See documentation: https://docs.github.com/en/actions/reference/encrypted-secrets
         # Set the secret in the "src" repository
-        personal_token: ${{ secrets.design-tokens }}
+        personal_token: ${{ secrets.DESIGN_TOKENS_ACCESS }}
         # This is the branch that has the code for this article
         src_branch: main
         src_path: output/css/_variables.css
