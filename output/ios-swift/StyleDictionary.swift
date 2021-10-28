@@ -18,7 +18,7 @@ public class StyleDictionary {
     public static let colorMintPrimary = UIColor(red: 0.549, green: 0.859, blue: 0.788, alpha:1)
     public static let colorRedDark = UIColor(red: 0.875, green: 0.353, blue: 0.388, alpha:1)
     public static let colorRedPrimary = UIColor(red: 0.957, green: 0.380, blue: 0.420, alpha:1)
-    public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
+    public static let colorWhite = UIColor(red: 1.000, green: 1.001, blue: 1.000, alpha:1)
     public static let effectShadow10 = [object Object]
     public static let effectShadow11 = [object Object]
     public static let effectShadow12 = [object Object]
