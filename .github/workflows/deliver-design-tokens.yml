@@ -18,11 +18,11 @@ jobs:
         personal_token: ${{ secrets.DESIGN_TOKENS_ACCESS }}
         # This is the branch that has the code for this article
         src_branch: main
-        src_path: output/css/_variables.css
+        src_path: output/js/_variables.js
         dst_owner: andrico1234
         dst_repo_name: design-tokens-test-fe-1
         dst_branch: main
-        dst_path: tokens/_variables.css
+        dst_path: tokens/_variables.js
         username: andrico1234
         email: 17087167+andrico1234@users.noreply.github.com
         commit_message: Update platform deliverable 

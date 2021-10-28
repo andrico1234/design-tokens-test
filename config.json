@@ -85,6 +85,16 @@
         }
       ]
     },
+    "js": {
+      "transformGroup": "js",
+      "buildPath": "output/js/",
+      "files": [
+        {
+          "destination": "_variables.js",
+          "format": "javascript/es6"
+        }
+      ]
+    },
     "ios-swift": {
       "transformGroup": "ios-swift",
       "buildPath": "output/ios-swift/",
