@@ -3,14 +3,14 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Fri, 29 Oct 2021 14:38:21 GMT
+// Generated on Fri, 29 Oct 2021 14:42:45 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let colorBlueDark = UIColor(red: 0.667, green: 0.667, blue: 0.667, alpha:1)
+    public static let colorBlueDark = UIColor(red: 0.110, green: 0.184, blue: 0.271, alpha:1)
     public static let colorBlueHover = UIColor(red: 0.149, green: 0.251, blue: 0.365, alpha:1)
     public static let colorBluePrimary = UIColor(red: 0.278, green: 0.353, blue: 0.475, alpha:1)
     public static let colorGreyDark = UIColor(red: 0.592, green: 0.592, blue: 0.592, alpha:1)
