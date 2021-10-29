@@ -2,12 +2,12 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 29 Oct 2021 15:05:05 GMT
+  Generated on Fri, 29 Oct 2021 15:59:44 GMT
 -->
 <resources>
   <color name="color_white">#ffffffff</color>
   <color name="color_blue_primary">#ff475a79</color>
-  <color name="color_blue_dark">#ffaaaaaa</color>
+  <color name="color_blue_dark">#ff1c2f45</color>
   <color name="color_blue_hover">#ff26405d</color>
   <color name="color_red_primary">#fff4616b</color>
   <color name="color_red_dark">#ffdf5a63</color>
