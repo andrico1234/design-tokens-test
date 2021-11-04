@@ -1,0 +1,20 @@
+{
+  "color": {
+    "font": {
+      "button": {
+        "primary": {
+          "value": "{color.blue.primary.value}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.mint.primary.value}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{color.red.primary.value}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -2,9 +2,12 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 29 Oct 2021 15:59:44 GMT
+  Generated on Thu, 04 Nov 2021 17:32:34 GMT
 -->
 <resources>
+  <color name="color_font_button_primary">#ff475a79</color>
+  <color name="color_font_button_secondary">#ff8cdbc9</color>
+  <color name="color_font_button_error">#fff4616b</color>
   <color name="color_white">#ffffffff</color>
   <color name="color_blue_primary">#ff475a79</color>
   <color name="color_blue_dark">#ff1c2f45</color>

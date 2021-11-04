@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Fri, 29 Oct 2021 15:59:44 GMT
+// Generated on Thu, 04 Nov 2021 17:32:34 GMT
 //
 
 
@@ -13,6 +13,9 @@ public class StyleDictionary {
     public static let colorBlueDark = UIColor(red: 0.110, green: 0.184, blue: 0.271, alpha:1)
     public static let colorBlueHover = UIColor(red: 0.149, green: 0.251, blue: 0.365, alpha:1)
     public static let colorBluePrimary = UIColor(red: 0.278, green: 0.353, blue: 0.475, alpha:1)
+    public static let colorFontButtonError = UIColor(red: 0.957, green: 0.380, blue: 0.420, alpha:1)
+    public static let colorFontButtonPrimary = UIColor(red: 0.278, green: 0.353, blue: 0.475, alpha:1)
+    public static let colorFontButtonSecondary = UIColor(red: 0.549, green: 0.859, blue: 0.788, alpha:1)
     public static let colorGreyDark = UIColor(red: 0.592, green: 0.592, blue: 0.592, alpha:1)
     public static let colorGreyLight = UIColor(red: 0.937, green: 0.929, blue: 0.929, alpha:1)
     public static let colorMintPrimary = UIColor(red: 0.549, green: 0.859, blue: 0.788, alpha:1)

@@ -1,9 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Oct 2021 15:59:44 GMT
+ * Generated on Thu, 04 Nov 2021 17:32:34 GMT
  */
 
 :root {
+  --color-font-button-primary: #475a79;
+  --color-font-button-secondary: #8cdbc9;
+  --color-font-button-error: #f4616b;
   --color-white: #ffffff;
   --color-blue-primary: #475a79;
   --color-blue-dark: #1c2f45;

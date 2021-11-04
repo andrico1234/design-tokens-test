@@ -3,13 +3,16 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Fri, 29 Oct 2021 15:59:44 GMT
+// Generated on Thu, 04 Nov 2021 17:32:34 GMT
 //
 
 #import <UIKit/UIKit.h>
 
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
+ColorFontButtonPrimary,
+ColorFontButtonSecondary,
+ColorFontButtonError,
 ColorWhite,
 ColorBluePrimary,
 ColorBlueDark,
